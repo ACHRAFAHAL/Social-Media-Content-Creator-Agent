@@ -4,3 +4,5 @@ crewai
 crewai-tools
 clarifai
 python-dotenv
+# Pin ChromaDB to avoid SQLite compatibility issues
+chromadb<0.4.0
