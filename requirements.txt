@@ -1,6 +1,6 @@
 # Fixed versions for Python 3.11 compatibility
 streamlit
-crewai==0.55.2
-crewai-tools==0.1.6
+crewai
+crewai-tools
 clarifai
 python-dotenv
