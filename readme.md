@@ -53,7 +53,7 @@ You need to set the following environment variables. It's recommended to use a `
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/your-username/ai-social-media-creator.git](https://github.com/your-username/ai-social-media-creator.git)
+    git clone [https://github.com/ACHRAFAHAL/Social-Media-Content-Creator-Agent.git](https://github.com/ACHRAFAHAL/Social-Media-Content-Creator-Agent.git)
     cd ai-social-media-creator
     ```
 
