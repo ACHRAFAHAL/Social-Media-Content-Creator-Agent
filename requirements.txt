@@ -1,5 +1,9 @@
-streamlit
-clarifai
-crewai
-crewai-tools
-python-dotenv
+# Core dependencies for your app
+streamlit>=1.28.0,<2.0.0
+crewai>=0.28.0,<1.0.0
+crewai-tools>=0.1.6,<1.0.0
+clarifai>=10.0.0,<11.0.0
+python-dotenv>=1.0.0,<2.0.0
+
+# ChromaDB compatibility fix
+chromadb>=0.4.0,<0.5.0
